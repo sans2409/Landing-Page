@@ -1,1 +1,1 @@
-# Landing-Page
+I developed a landing page using html, css and bootstrap. A landing page is any web page that a consumer can land on, but in the marketing realm, it's usually a standalone page, distinct from your homepage or any other page, that serves a single and focused purpose. A landing page is a follow-up to any promises that you've made in your content. To visit my page click on https://sans2409.github.io/Landing-Page/LP
